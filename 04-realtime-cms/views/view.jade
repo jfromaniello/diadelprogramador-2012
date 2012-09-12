@@ -1,0 +1,9 @@
+html
+  head
+    title view document
+    script(src='https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js')
+    script(src='/socket.io/socket.io.js')
+    script(src='/view.js')
+  body
+    input#docId(type='hidden', value=_id) 
+    #content !{content}

@@ -1,0 +1,25 @@
+<html>
+<head>
+    <title>Editor compartido</title>
+</head>
+<body>
+    <textarea id="editor"></textarea>
+
+
+    
+    <script src="/channel/bcsocket.js"></script>
+    <script src="/share/share.js"></script>
+    <script src="/share/textarea.js"></script>
+    
+    <script type="text/javascript">
+        window.onload = function() {
+            var editor = document.getElementById('editor');
+            editor.value = 'loading';
+            sharejs.open('mydoc', function(error, doc) {
+                editor.value = doc.snapshot;
+                doc.attach_textarea(editor);
+            });
+        };
+    </script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+html
+  head
+    title create a document
+    script(src='https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js')
+    script(src='/application.js')
+  body
+    textarea#editor(style='min-width: 400px; min-height: 400px;')= content
+    input#save(type='button', value='save')
+    input#docId(type='hidden', value=_id) 
+    #linkph
+      if _id
+        a(href='/edit/' + _id) permalink
