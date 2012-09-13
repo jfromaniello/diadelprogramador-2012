@@ -25,11 +25,13 @@ este repositorio tiene 4 ejemplos:
 
 # Diapositiva
 
-<script async class="speakerdeck-embed" data-id="5051c8b4411491000202fbca" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="5051c8b4411491000202fbca" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js">
+</script>
 
 # Vídeo
 
-<iframe width="480" height="386" src="http://www.ustream.tv/embed/recorded/25364057?wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe><br /><a href="http://www.ustream.tv/" style="padding: 2px 0px 4px; width: 400px; background: #ffffff; display: block; color: #000000; font-weight: normal; font-size: 10px; text-decoration: underline; text-align: center;" target="_blank">Video streaming by Ustream</a>
+<iframe width="480" height="386" src="http://www.ustream.tv/embed/recorded/25364057?wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">a
+</iframe> 
 
 # Licencia
 
