@@ -23,15 +23,9 @@ este repositorio tiene 4 ejemplos:
  npm start
 ```
 
-# Diapositiva
+# Diapositiva, diapositivas y discusión
 
-<script async class="speakerdeck-embed" data-id="5051c8b4411491000202fbca" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js">
-</script>
-
-# Vídeo
-
-<iframe width="480" height="386" src="http://www.ustream.tv/embed/recorded/25364057?wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">a
-</iframe> 
+En este [link](http://es.joseoncode.com/post/31458569918/links-de-mi-charla-del-dia-del-programador) mi blog pueden ver el vídeo de la presentación, la diapositiva y dejar sus comentarios e insultos.
 
 # Licencia
 
